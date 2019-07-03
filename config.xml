@@ -1,0 +1,11 @@
+<app>
+  <server>
+    <ip>127.0.0.1</ip>
+    <port>3306</port>
+  </server>
+  <active>gE4xc2rj5GJZrK+Vrub8XA==</active>
+  <printer>
+    <sam>Microsoft Print To PDF</sam>
+    <epson>Microsoft Print To PDF</epson>
+  </printer>
+</app>
