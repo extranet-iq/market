@@ -1,0 +1,14 @@
+c:\users\peshawa it\source\repos\MarketManagmentSystem\MarketManagmentSystem\bin\Debug\MarketManagmentSystem.exe.config
+c:\users\peshawa it\source\repos\MarketManagmentSystem\MarketManagmentSystem\bin\Debug\MarketManagmentSystem.exe
+c:\users\peshawa it\source\repos\MarketManagmentSystem\MarketManagmentSystem\bin\Debug\MarketManagmentSystem.pdb
+c:\users\peshawa it\source\repos\MarketManagmentSystem\MarketManagmentSystem\bin\Debug\Bunifu_UI_v1.5.3.dll
+c:\users\peshawa it\source\repos\MarketManagmentSystem\MarketManagmentSystem\obj\Debug\MarketManagmentSystem.csprojResolveAssemblyReference.cache
+c:\users\peshawa it\source\repos\MarketManagmentSystem\MarketManagmentSystem\obj\Debug\MarketManagmentSystem.Form1.resources
+c:\users\peshawa it\source\repos\MarketManagmentSystem\MarketManagmentSystem\obj\Debug\MarketManagmentSystem.Properties.Resources.resources
+c:\users\peshawa it\source\repos\MarketManagmentSystem\MarketManagmentSystem\obj\Debug\MarketManagmentSystem.csproj.GenerateResource.cache
+c:\users\peshawa it\source\repos\MarketManagmentSystem\MarketManagmentSystem\obj\Debug\MarketManagmentSystem.csproj.CoreCompileInputs.cache
+c:\users\peshawa it\source\repos\MarketManagmentSystem\MarketManagmentSystem\obj\Debug\MarketManagmentSystem.csproj.CopyComplete
+c:\users\peshawa it\source\repos\MarketManagmentSystem\MarketManagmentSystem\obj\Debug\MarketManagmentSystem.exe
+c:\users\peshawa it\source\repos\MarketManagmentSystem\MarketManagmentSystem\obj\Debug\MarketManagmentSystem.pdb
+c:\users\peshawa it\source\repos\MarketManagmentSystem\MarketManagmentSystem\obj\Debug\MarketManagmentSystem.Sell.resources
+c:\users\peshawa it\source\repos\MarketManagmentSystem\MarketManagmentSystem\obj\Debug\MarketManagmentSystem.SkinForm.resources
